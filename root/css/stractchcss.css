@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    background-color: rgba(255, 166, 0, 0.661);
+}
+.nav{
+    position: relative;
+    float: right;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: navy;
+    font-size: 60px;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: navy; 
+    font-size: 40px;
+}
+
+.copy{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    background-color: navy;
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif; color: white;
+}
